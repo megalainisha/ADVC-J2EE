@@ -64,9 +64,9 @@ body {font-family: Arial, Helvetica, sans-serif;}
     <div class="navbar">
     <ul class="nav navbar-nav">
     
-      <li><a href="homepage.jsp"> <i class="fa fa-fw fa-home"></i>HOME</a></li>
-      <li><a href="contact.jsp"><i class="fa fa-fw fa-envelope"></i>CONTACT</a></li>
-      <li><a href="book.jsp"><i class="fa fa-fw fa-user"></i>BOOKING</a></li>
+      <li><a href="Homepage.jsp"> <i class="fa fa-fw fa-home"></i>HOME</a></li>
+      <li><a href="ContactPage.jsp"><i class="fa fa-fw fa-envelope"></i>CONTACT</a></li>
+      <li><a href="BookingPage.jsp"><i class="fa fa-fw fa-user"></i>BOOKING</a></li>
       <li><a href="about.jsp"><i class="fa fa-fw fa-envelope"></i>ABOUT US</a></li>
       
     </ul>

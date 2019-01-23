@@ -3,5 +3,9 @@ D:\ADVANCED JAVA PROGRAM\ADVANCED JAVAPROGRAM\.metadata\.plugins\org.eclipse.jst
 \hotel\src
 D:\JAVA2EE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4106526359.index
 \SUMMA LOLAAI\src
+D:\JAVA2EE\ADVC-J2EE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2248270589.index
+\hotel\src
+D:\JAVA2EE\ADVC-J2EE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\140550311.index
+\HotelBookingSystem\src
 D:\ADVANCED JAVA PROGRAM\ADVANCED JAVAPROGRAM\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\629283231.index
 \hotel\src

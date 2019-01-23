@@ -1401,3 +1401,18 @@ Jan 22, 2019 15:57:27.12 [8880:2432:0122/155727.050:ERROR:install_util.cc(687)] 
 
 Jan 22, 2019 17:09:37.95 NEW SESSION
 Jan 22, 2019 17:09:37.95 [10868:8540:0122/170937.946:ERROR:install_util.cc(687)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+
+Jan 23, 2019 14:28:24.43 NEW SESSION
+Jan 23, 2019 14:28:24.43 [10568:9256:0123/142824.431:ERROR:install_util.cc(687)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+Jan 23, 2019 14:31:39.67 [11752:1628:0123/143139.671:ERROR:install_util.cc(687)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+
+Jan 23, 2019 18:18:42.92 NEW SESSION
+Jan 23, 2019 18:18:42.92 [9736:6316:0123/181842.918:ERROR:install_util.cc(687)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+Jan 23, 2019 18:29:30.22 [9736:6316:0123/182930.221:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2019 18:29:56.80 [9736:6316:0123/182956.803:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2019 18:30:47.81 [9736:6316:0123/183047.810:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2019 18:32:15.08 [9736:6316:0123/183215.084:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2019 18:36:58.74 [9736:6316:0123/183658.747:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2019 19:15:53.68 [9736:6032:0123/191553.680:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jan 23, 2019 19:24:08.33 [9736:8800:0123/192408.336:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jan 23, 2019 19:33:41.78 [9736:6032:0123/193341.788:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101

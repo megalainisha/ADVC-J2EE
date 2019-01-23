@@ -10,44 +10,56 @@
 
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">    
+    
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> 
+       
+       
+<style type="text/css">
+
+.img1{
+  float: right;
+}
+
+
+
+</style>       
             
 </head>
 <body>
+ 
 
+   <div class="col s6">
+  <img class="img1" src="image/img1.jpg" alt="Pineapple" width="40%" >
+   </div>
   
   
-  <br><br><br><br><br>
   
   <div class="d-flex justify-content-center align-items-center container ">
-   <img alt="" src="image/rad5.jpg" width="30%">
+   <img alt="" src="image/rad7.jpg" width="30%"> 
   
-  <form action="HotelJava" method="post" class="col s6">
+  <form action="HotelBooking" method="post" class="col s6">
     <div class="row">
-    <form class="col s6">
+    <form class="col s12">
       <div class="row">
         <div class="input-field col s6">
-          <i class="material-icons">email</i>
-          <input id="person" type="email" class="validate" name="email">
-          <label for="person">USER ID</label>
+          <i class="material-icons prefix">account_circle</i>
+          <input id="icon_prefix" type="email" class="validate" name="email">
+          <label for="icon_prefix">USER ID</label>
         </div>
         <div class="row">
-        <div class="col s6">
-        <div class="row">
+        <div class="col s12">
         <div class="input-field col s6">
-          <i class="material-icons">lock</i>
-          <input id="panorama" type="password" class="validate" name="pass">
-          <br><br>
-          <label for="panorama">PASSWORD</label>
+          <i class="material-icons prefix">lock</i>
+          <input id="icon_lock" type="password" class="validate" name="pass">
+          <label for="icon_lock">PASSWORD</label>
         </div>
       </div>
       </div>
-      </div>
-      </div>
-      <Button  class="waves-effect waves-light btn">Submit</Button>
+      <button class="btn waves-effect waves-light" type="submit" name="action">SUBMIT
+    <i class="material-icons right">send</i>
+  </button>
     </form>
   </div>
-
 
 
 </body>
