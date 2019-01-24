@@ -5,14 +5,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>LOGIN PAGE</title>
+
 <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> 
-       
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">        
        
 <style type="text/css">
 
@@ -27,15 +27,12 @@
 </head>
 <body>
  
-
-   <div class="col s6">
-  <img class="img1" src="image/img1.jpg" alt="Pineapple" width="40%" >
-   </div>
-  
-  
+<br><br><br><br><br>
   
   <div class="d-flex justify-content-center align-items-center container ">
-   <img alt="" src="image/rad7.jpg" width="30%"> 
+   <center><img alt="" src="image/rad7.jpg" width="30%"></center> 
+  
+  <br><br>
   
   <form action="HotelBooking" method="post" class="col s6">
     <div class="row">

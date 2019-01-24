@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 
 <style>
@@ -32,7 +33,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 }
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1000px) {
   .navbar a {
     float: none;
     display: block;
@@ -56,22 +57,21 @@ body {font-family: Arial, Helvetica, sans-serif;}
    </div>
     
     
-      <nav class="navbar navbar-default">
+      <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#"></a>
+     
     </div>
-    <div class="navbar">
     <ul class="nav navbar-nav">
-    
-      <li><a href="Homepage.jsp"> <i class="fa fa-fw fa-home"></i>HOME</a></li>
-      <li><a href="ContactPage.jsp"><i class="fa fa-fw fa-envelope"></i>CONTACT</a></li>
-      <li><a href="BookingPage.jsp"><i class="fa fa-fw fa-user"></i>BOOKING</a></li>
-      <li><a href="about.jsp"><i class="fa fa-fw fa-envelope"></i>ABOUT US</a></li>
-      
+      <li><a href="Homepage.jsp"><span class="glyphicon glyphicon-user"></span>Home</a></li>
+      <li><a href="ContactPage.jsp"><span class="glyphicon glyphicon-earphone"></span>ContactUs</a></li>
+      <li><a href="BookingPage.jsp"><span class="glyphicon glyphicon-bookmark"></span>Booking</a></li>
+      <li><a href="AboutUs.jsp"><span class="glyphicon glyphicon-globe"></span>AboutUs</a></li>
     </ul>
-    </div>
-    </div>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="Signup.jsp"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+    </ul>
+  </div>
 </nav>
     
 </body>

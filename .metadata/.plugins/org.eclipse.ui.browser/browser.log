@@ -1416,3 +1416,19 @@ Jan 23, 2019 18:36:58.74 [9736:6316:0123/183658.747:ERROR:gcm_channel_status_req
 Jan 23, 2019 19:15:53.68 [9736:6032:0123/191553.680:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
 Jan 23, 2019 19:24:08.33 [9736:8800:0123/192408.336:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
 Jan 23, 2019 19:33:41.78 [9736:6032:0123/193341.788:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+Jan 24, 2019 12:25:24.98 NEW SESSION
+Jan 24, 2019 12:25:24.98 [5948:7040:0124/122524.982:ERROR:install_util.cc(687)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+Jan 24, 2019 12:29:05.29 [5424:12772:0124/122905.297:ERROR:install_util.cc(687)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+
+Jan 24, 2019 13:46:20.15 NEW SESSION
+Jan 24, 2019 13:46:20.16 [2112:10224:0124/134620.158:ERROR:install_util.cc(687)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+Jan 24, 2019 14:44:28.70 [2112:12352:0124/144428.692:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jan 24, 2019 14:46:10.54 [2112:12352:0124/144610.545:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jan 24, 2019 14:47:02.41 [2112:12352:0124/144702.415:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jan 24, 2019 14:49:36.02 [2112:12352:0124/144936.019:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jan 24, 2019 14:49:56.67 [2112:12352:0124/144956.677:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jan 24, 2019 15:30:17.58 [2112:12352:0124/153017.579:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jan 24, 2019 15:43:54.80 [2112:12352:0124/154354.808:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jan 24, 2019 15:44:42.18 [2112:12352:0124/154442.179:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+Jan 24, 2019 15:45:31.51 [2112:12352:0124/154531.513:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
