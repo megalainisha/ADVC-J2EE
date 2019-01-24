@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>LOGIN PAGE</title>
+<title>Radisson blu LOGIN PAGE</title>
 
 <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
@@ -16,8 +16,9 @@
        
 <style type="text/css">
 
-.img1{
-  float: right;
+.center_div{
+    margin: 0 auto;
+    width:80% /* value of your choice which suits your alignment */
 }
 
 
@@ -34,18 +35,19 @@
   
   <br><br>
   
-  <form action="HotelBooking" method="post" class="col s6">
+  <form action="HotelBooking" method="post">
+  <div class="container center_div">
     <div class="row">
     <form class="col s12">
       <div class="row">
-        <div class="input-field col s6">
+        <div class="input-field col s8">
           <i class="material-icons prefix">account_circle</i>
           <input id="icon_prefix" type="email" class="validate" name="email">
           <label for="icon_prefix">USER ID</label>
         </div>
         <div class="row">
         <div class="col s12">
-        <div class="input-field col s6">
+        <div class="input-field col s8">
           <i class="material-icons prefix">lock</i>
           <input id="icon_lock" type="password" class="validate" name="pass">
           <label for="icon_lock">PASSWORD</label>
@@ -57,6 +59,8 @@
   </button>
     </form>
   </div>
+  </div>
+  </form>
 
 
 </body>

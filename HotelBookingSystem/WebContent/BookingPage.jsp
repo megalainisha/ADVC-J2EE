@@ -25,7 +25,7 @@
   </div>
   <div class="col-md-3">
     <div class="thumbnail">
-      <img src="image/dow2.jpg" alt="..." width=100%>
+      <img src="image/dow2.jpg" alt="..."width="90%">
       <div class="caption">
         <h3 style="font-weight: 900;">JUNIOR SUITE</h3>
         <p></p>
@@ -35,7 +35,7 @@
   </div>
   <div class="col-md-3">
     <div class="thumbnail">
-      <img src="image/dow3.jpg" alt="..." width=100%>
+      <img src="image/dow3.jpg" alt="..." width="90%">
       <div class="caption">
         <h3 style="font-weight: 900;">DELUXE SUITE</h3>
         <p></p>
@@ -53,6 +53,10 @@
       </div>
     </div>
   </div>
+  
+  <div class="video-container">
+        <iframe width="853" height="480" src="video/hotel2.mp4" frameborder="0" allowfullscreen></iframe>
+      </div>
   
 </body>
 </html>
