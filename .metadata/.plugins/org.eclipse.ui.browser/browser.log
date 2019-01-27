@@ -1440,3 +1440,9 @@ Jan 24, 2019 16:09:50.30 [8244:7300:0124/160950.301:ERROR:platform_sensor_reader
 Jan 24, 2019 16:09:50.99 [8244:7300:0124/160950.999:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
 Jan 24, 2019 16:09:51.47 [8244:7300:0124/160951.473:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
 Jan 24, 2019 16:16:18.27 [8244:7300:0124/161618.278:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+
+Jan 24, 2019 19:54:51.26 NEW SESSION
+Jan 24, 2019 19:54:51.26 [5976:7032:0124/195451.259:ERROR:install_util.cc(687)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+
+Jan 25, 2019 16:31:45.64 NEW SESSION
+Jan 25, 2019 16:31:45.64 [6832:10432:0125/163145.643:ERROR:install_util.cc(687)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
