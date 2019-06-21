@@ -15,7 +15,7 @@
   <div class="row">
   <div class="col-md-3">
     <div class="thumbnail">
-      <img src="image/dow5.jpg" alt="..." width=100%>
+      <img src="image/rad4.png" alt="..." width=100%>
       <div class="caption">
         <h3 style="font-weight: 900;">BUSINESS CLASS</h3>
         <p></p>

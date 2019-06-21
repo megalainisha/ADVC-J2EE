@@ -36,7 +36,7 @@ public class SecondServlet extends HttpServlet
     	   else
     	   {
     	   
-    	   out.println("Please Enter the correct input");
+    	   out.println("Please Enter the correct input"+g);
     	   }
     	}
 	}

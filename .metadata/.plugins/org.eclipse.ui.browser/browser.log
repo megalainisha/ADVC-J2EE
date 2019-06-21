@@ -1453,3 +1453,40 @@ Jan 29, 2019 18:46:51.98 [10292:12728:0129/184651.986:ERROR:media_internals.cc(1
 
 Feb 03, 2019 15:11:26.53 NEW SESSION
 Feb 03, 2019 15:11:26.53 [6844:2916:0203/151126.526:ERROR:install_util.cc(687)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+
+Mar 06, 2019 11:13:06.09 NEW SESSION
+Mar 06, 2019 11:13:06.10 [7984:1972:0306/111306.093:ERROR:browser_process_sub_thread.cc(209)] Waited 123 ms for network service
+
+Mar 10, 2019 17:34:43.80 NEW SESSION
+Mar 10, 2019 17:34:43.80 [5672:6208:0310/173443.796:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Mar 10, 2019 17:35:41.89 [5672:6208:0310/173541.898:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 10, 2019 17:36:08.82 [5672:6208:0310/173608.821:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 10, 2019 17:37:03.24 [5672:6208:0310/173703.242:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 10, 2019 17:38:37.11 [5672:6208:0310/173837.118:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 10, 2019 17:41:30.15 [5672:6208:0310/174130.155:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 10, 2019 17:47:39.32 [5672:6208:0310/174739.324:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Mar 11, 2019 19:47:01.63 NEW SESSION
+Mar 11, 2019 19:47:01.63 [6748:972:0311/194701.626:ERROR:browser_process_sub_thread.cc(209)] Waited 151 ms for network service
+
+Mar 17, 2019 13:39:12.55 NEW SESSION
+Mar 17, 2019 13:39:12.55 [1192:2840:0317/133912.556:ERROR:browser_process_sub_thread.cc(209)] Waited 325 ms for network service
+Mar 17, 2019 13:40:31.20 [3748:5512:0317/134031.200:ERROR:browser_process_sub_thread.cc(209)] Waited 565 ms for network service
+
+Mar 23, 2019 11:28:49.35 NEW SESSION
+Mar 23, 2019 11:28:49.35 [400:11452:0323/112849.347:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+Mar 23, 2019 11:29:14.60 [400:11452:0323/112914.599:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+Mar 23, 2019 11:30:09.84 [400:11452:0323/113009.847:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+Mar 23, 2019 11:32:04.38 [400:11452:0323/113204.381:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+Mar 23, 2019 11:35:11.73 [400:11452:0323/113511.732:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+Mar 23, 2019 11:39:32.39 [400:9044:0323/113932.398:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Mar 24, 2019 19:05:11.25 NEW SESSION
+Mar 24, 2019 19:05:11.25 [10372:10508:0324/190511.253:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+Mar 24, 2019 19:05:22.73 [10372:10508:0324/190522.731:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+Mar 24, 2019 19:05:27.25 [10372:10508:0324/190527.256:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+Mar 24, 2019 19:05:36.71 [10372:10508:0324/190536.715:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+Mar 24, 2019 19:05:41.25 [10372:10508:0324/190541.257:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+Mar 24, 2019 19:08:19.75 [10372:10508:0324/190819.758:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+Mar 24, 2019 19:08:43.76 [10372:10508:0324/190843.765:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -118
+Mar 24, 2019 20:22:46.24 [10372:10508:0324/202246.056:ERROR:browser_process_sub_thread.cc(209)] Waited 181 ms for network service
